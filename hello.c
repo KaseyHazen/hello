@@ -7,9 +7,12 @@
  *
  */
 
+ #include <stdlib.h>
+ #include <stdio.h>
+
  int main(int agrc, char **argv) {
 
-    printf(Hello I'M Kasey Hazen!\n");
+    printf(Hello im Kasey Hazen!\n");
 
     printf("Major is Computer Science!\n");
 
